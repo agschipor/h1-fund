@@ -1,1 +1,1 @@
-custom: ["https://example.com/h1ok", "HTTPS://example.com/h1upper"]
+custom: ["https://example.com/h1ok", "https:example.com/h1noslash"]
