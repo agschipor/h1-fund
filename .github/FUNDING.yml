@@ -1,1 +1,1 @@
-custom: ["https://example.com/h1ok", "https://example.com/<b>h1tag</b>"]
+custom: ["https://example.com/h1ok", "https://example.com/h1\u0000nul"]
