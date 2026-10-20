@@ -1,1 +1,1 @@
-custom: ["mailto:h1@example.com"]
+custom: ["ssh://example.com/h1ssh"]
