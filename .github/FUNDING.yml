@@ -1,1 +1,1 @@
-custom: ["https://example.com/h1ok"]
+custom: ["https://example.com/h1ok", "JAVASCRIPT:alert(1)"]
