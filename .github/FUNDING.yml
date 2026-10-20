@@ -1,1 +1,1 @@
-custom: ["java\x0ascript:document.title=1"]
+custom: ["java\x00script:document.title=1"]
