@@ -1,1 +1,7 @@
-custom: ["java\x00script:document.title=1"]
+github: ["agschipor"]
+patreon: "foo/../../bar"
+ko_fi: "name with space"
+liberapay: "a\"b"
+open_collective: "x<b>y</b>"
+tidelift: "npm/h1"
+custom: ["https://example.com/h1ok"]
