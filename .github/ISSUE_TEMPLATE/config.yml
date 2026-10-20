@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: marker
-    url: 'https://ZQbo.example/a">end'
-    about: about
+  - name: midtab
+    url: "ht\ttps://ZQmidtab.example/p"
+    about: a
+  - name: leadtab
+    url: "\thttps://ZQleadtab.example/p"
+    about: a
+  - name: midnl
+    url: "https\n://ZQmidnl.example/p"
+    about: a
