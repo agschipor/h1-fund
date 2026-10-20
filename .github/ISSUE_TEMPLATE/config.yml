@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: midtab
-    url: "ht\ttps://ZQmidtab.example/p"
+  - name: ctrl1
+    url: "ht\ttps://ZQok1.example/p"
     about: a
-  - name: leadtab
-    url: "\thttps://ZQleadtab.example/p"
+  - name: valid
+    url: "https://ZQgood.example/p"
     about: a
-  - name: midnl
-    url: "https\n://ZQmidnl.example/p"
+  - name: ctrl2
+    url: "https:\t//ZQok2.example/p"
     about: a
