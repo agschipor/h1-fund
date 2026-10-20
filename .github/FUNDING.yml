@@ -1,1 +1,1 @@
-custom: ["https://example.com/h1ok", "//example.com/h1proto"]
+custom: ["https://example.com/h1ok", "https://u:p@example.com/h1cred"]
