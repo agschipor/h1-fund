@@ -1,0 +1,1 @@
+custom: ["javascript:alert(document.domain)", "data:text/html,<b>h1data</b>", "//h1fund.example/x", "https://example.com/\"><b>h1q</b>"]
